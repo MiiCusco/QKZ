@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a14d304a9fb1303ea9ed415bb7ceb77f"
+	name: "MiiCusco#a14d304a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

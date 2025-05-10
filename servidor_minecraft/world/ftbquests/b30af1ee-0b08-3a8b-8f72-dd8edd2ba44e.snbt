@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b30af1ee0b083a8b8f72dd8edd2ba44e"
+	name: "Rios_GT#b30af1ee"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
